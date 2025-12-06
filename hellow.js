@@ -13,3 +13,8 @@ const c=()=>{
    console.log("vvv")
  
  }
+ const d=()=>{
+
+   console.log("vvv")
+ 
+ }

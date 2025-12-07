@@ -13,6 +13,12 @@ const c=()=>{
    console.log("vvv")
  
  }
- const f=()=>{
-   alert("shira")
+
+ 
+ const d=()=>{
+
+   console.log("vvv")
+
  }
+ const f=()=>{
+   alert("shira")}

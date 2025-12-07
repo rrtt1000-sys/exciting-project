@@ -13,3 +13,6 @@ const c=()=>{
    console.log("vvv")
  
  }
+ const f=()=>{
+   alert("shira")
+ }

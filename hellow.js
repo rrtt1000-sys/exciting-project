@@ -13,6 +13,12 @@ const c=()=>{
    console.log("vvv")
  
  }
+ const d=()=>{
+
+   console.log("vvv")
+ 
+
+ }
  const e=()=>{
    confirm("are you shur?")
  }

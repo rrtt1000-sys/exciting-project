@@ -12,6 +12,7 @@ const c=()=>{
 
    console.log("vvv")
  
+
  }
  const d=()=>{
 
@@ -19,6 +20,6 @@ const c=()=>{
  
 
  }
- const e=()=>{
-   confirm("are you shur?")
- }
+
+
+
